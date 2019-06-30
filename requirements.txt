@@ -1,0 +1,3 @@
+RNS341-game-utils
+python-dotenv
+Flask
